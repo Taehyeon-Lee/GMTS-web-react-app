@@ -1,5 +1,8 @@
 # GMTS-web-react-app
-Final project for Web Development CS5610 
+A sneakers website that users would be able to view/search products also can create account/log-in and interact with other users. Used third-party API to get the data of sneakers and used MongoDB to store the data of users and products.
+
+# Server
+https://github.com/Taehyeon-Lee/gmts-node-server-app
 
 Details:
 UML Diagram
